@@ -1,0 +1,101 @@
+# Copyright (C) 2016 Grant Hutchinson
+# This file is distributed under the same license as the Tubman theme package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tubman theme 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/tubman\n"
+"POT-Creation-Date: 2016-10-12 09:35:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:6 index.php:20
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:10 index.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links on the right, can help."
+msgstr ""
+
+#: content-single.php:8 content-single.php:9
+msgctxt "used between list items, there is a space after the comma"
+msgid ", "
+msgstr ""
+
+#: content-single.php:12
+msgid "Posted in %1$s."
+msgstr ""
+
+#: content-single.php:14
+msgid "Tagged %1$s."
+msgstr ""
+
+#: front-page.php:15
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: functions.php:29
+msgid "Next page"
+msgstr ""
+
+#: functions.php:30
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:44 functions.php:58
+msgid "Pages:"
+msgstr ""
+
+#: page.php:10 single.php:9 templates/arts.php:16 templates/community.php:17
+#: templates/full-width.php:11 templates/research.php:16
+msgid "Sorry, this page does not exist."
+msgstr ""
+
+#: searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: single-staff.php:48
+msgid "Home"
+msgstr ""
+
+#: single-staff.php:67
+msgid "Department: "
+msgstr ""
+
+#: single-staff.php:101
+msgid "Contact from "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Tubman theme"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Theme for the Harriet Tubman Institute"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Grant Hutchinson"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Arts"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Community"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "full-width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Research"
+msgstr ""
